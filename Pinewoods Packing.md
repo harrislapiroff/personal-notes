@@ -1,0 +1,61 @@
+- [ ] Clothes (N days worth of)
+  - [ ] Shirts (like 3× as many as you think you need)
+  - [ ] Socks
+  - [ ] Underwear
+  - [ ] Sweater or Sweatshirt
+  - [ ] Pants
+  - [ ] Swimsuit
+  - [ ] Jacket
+  - [ ] Belt
+  - [ ] Raincoat
+  - [ ] Flip Flops
+  - [ ] Hiking Boots
+  - [ ] Dance Shoes
+  - [ ] Sneakers (optional)
+- [ ] Technology
+  - [ ] Laptop (optional, only if you may need to be on call)
+  - [ ] Laptop charger (ditto)
+  - [ ] Phone
+  - [ ] Watch
+  - [ ] Kindle
+  - [ ] Lightning Cable
+  - [ ] Watch Cable
+  - [ ] MicroUSB Cable (for Kindle)
+  - [ ] USB adapter brick(s)
+  - [ ] Headphones
+- [ ] Fun Stuff
+  - [ ] Songbook
+  - [ ] Pen
+  - [ ] Other notebook
+  - [ ] Guitar
+  - [ ] Guitar picks
+  - [ ] Capo
+  - [ ] Tuner
+  - [ ] Vape, if desired
+- [ ] Misc
+  - [ ] ID (for purchasing booze midweek)
+  - [ ] Water Bottle
+  - [ ] Tote bag for carrying stuff around
+  - [ ] Magnets for buttons
+  - [ ] PCI board button
+  - [ ] Other name buttons, if desired
+  - [ ] Paper fans
+  - [ ] Handkerchiefs for sweat
+- [ ] Covid
+  - [ ] Masks
+  - [ ] Tests
+- [ ] Toiletries & Meds
+  - [ ] Toothbrush
+  - [ ] Toothpaste
+  - [ ] Mouthwash
+  - [ ] Cetirizine
+  - [ ] Flonase
+  - [ ] Ibuprofen
+  - [ ] Deodorant
+  - [ ] Melatonin
+  - [ ] Hair Ties
+- [ ] Bedding
+  - [ ] Sheets
+  - [ ] Blankets
+  - [ ] Extra Pillow (optional)
+  - [ ] Towel (at least one, maybe two—shower and pond)
