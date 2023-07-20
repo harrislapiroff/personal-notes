@@ -41,6 +41,7 @@
   - [ ] Other name buttons, if desired
   - [ ] Paper fans
   - [ ] Handkerchiefs for sweat
+  - [ ] Box fans (x2)
 - [ ] Covid
   - [ ] Masks
   - [ ] Tests
@@ -54,8 +55,15 @@
   - [ ] Deodorant
   - [ ] Melatonin
   - [ ] Hair Ties
+- [ ] Food (optional)
+  - [ ] Snacks
+  - [ ] Beer and liquor
 - [ ] Bedding
   - [ ] Sheets
   - [ ] Blankets
   - [ ] Extra Pillow (optional)
   - [ ] Towel (at least one, maybe two—shower and pond)
+
+## American Week 2023 specific
+
+- [ ] Pillow for Maia
