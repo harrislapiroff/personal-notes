@@ -42,6 +42,7 @@
   - [ ] Paper fans
   - [ ] Handkerchiefs for sweat
   - [ ] Box fans (x2)
+  - [ ] Caller cards
 - [ ] Covid
   - [ ] Masks
   - [ ] Tests
