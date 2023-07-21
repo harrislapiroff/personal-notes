@@ -65,6 +65,11 @@
   - [ ] Blankets
   - [ ] Extra Pillow (optional)
   - [ ] Towel (at least one, maybe two—shower and pond)
+- [ ] Sex stuff
+  - [ ] Lube
+  - [ ] Condoms
+  - [ ] Vibe?
+  - [ ] Ropes?
 
 ## American Week 2023 specific
 
