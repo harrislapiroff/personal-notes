@@ -55,6 +55,8 @@
   - [ ] Deodorant
   - [ ] Melatonin
   - [ ] Hair Ties
+  - [ ] Shaving cream
+  - [ ] Razors
 - [ ] Food (optional)
   - [ ] Snacks
   - [ ] Beer and liquor
